@@ -1,0 +1,29 @@
+# Qt and qmake generated files
+.qmake.stash
+Makefile
+Makefile.*
+debug/
+release/
+*.user
+
+# Build outputs and generated sources
+*.exe
+*.dll
+*.o
+*.obj
+*.a
+*.so
+*.dylib
+moc_*
+*.moc
+qrc_*
+ui_*
+
+# IDE and operating-system files
+.vs/
+.vscode/
+*.pro.user*
+*.suo
+*.swp
+Thumbs.db
+desktop.ini
